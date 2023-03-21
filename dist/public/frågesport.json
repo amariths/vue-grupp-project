@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "fråga": "Vad är numret på den svarta bollen i poolen?",
+        "svar": "8",
+        "felsvar1": "9",
+        "felsvar2": "0",
+        "felsvar3": "10",
+        "selected": "null"
+    },
+    {
+        "id": "2",
+        "fråga": "Vem är vargen från filmen Puss in boots the last wish",
+        "svar": "döden",
+        "felsvar1": "kattens vän",
+        "felsvar2": "varg med attityd",
+        "felsvar3": "god hjälte",
+        "selected": "null"
+    },
+    {
+        "id": "3",
+        "fråga": "Vilka av dessa berömda kompositörer var döva?",
+        "svar": "Beethoven",
+        "felsvar1": "Mozart",
+        "felsvar2": "Bach",
+        "felsvar3": "Händel",
+        "selected": "null"
+    },
+    {
+        "id": "4",
+        "fråga": "Vad känner programmerare efter en lång dag med kod som hade massa buggar och äntligen blev färdig",
+        "svar": "behöver en hammare",
+        "felsvar1":"dags att ta friskluft",
+        "felsvar2": "inget nytt",
+        "felsvar3": "jag är nöjd",
+        "selected": "null"
+    },
+    {
+        "id": "5",
+        "fråga": "Vem var skurken i avengers endgame?",
+        "svar": "Thanos",
+        "felsvar1": "Captain America",
+        "felsvar2": "Iron man",
+        "felsvar3": "Alien",
+        "selected": "null"
+    }
+
+]

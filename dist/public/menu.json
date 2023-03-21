@@ -1,0 +1,90 @@
+[
+  {
+    "pre": [
+      {
+        "id": 0,
+        "product": "Löjrom",
+        "price": 89
+      },
+      {
+        "id": 1,
+        "product": "Råbiff",
+        "price": 80
+      },
+      {
+        "id": 2,
+        "product": "Caviar",
+        "price": 100
+      }
+    ],
+
+    "main": [
+      {
+        "id": 3,
+        "product": "Ceasarsallad",
+        "price": 275
+      },
+      {
+        "id": 4,
+        "product": "Skagenröra",
+        "price": 260
+      },
+      {
+        "id": 5,
+        "product": "Kvällens Fisk",
+        "price": 300
+      },
+      {
+        "id": 6,
+        "product": "Oxfilé",
+        "price": 350
+      },
+      {
+        "id": 7,
+        "product": "Råbiff",
+        "price": 320
+      },
+      {
+        "id": 8,
+        "product": "Rotselleri Fiorentina",
+        "price": 290
+      }
+    ],
+
+    "desert": [
+      {
+        "id": 9,
+        "product": "Crème brûlée",
+        "price": 80
+      },
+      {
+        "id": 10,
+        "product": "Hemgjord glass & sorbet",
+        "price": 99
+      },
+      {
+        "id": 11,
+        "product": "Nyfriterade Donuts",
+        "price": 85
+      }
+    ],
+
+    "drink": [
+      {
+        "id": 9,
+        "product": "Irish Coffee",
+        "price": 70
+      },
+      {
+        "id": 10,
+        "product": "Margarita",
+        "price": 70
+      },
+      {
+        "id": 11,
+        "product": "Espresso Martini",
+        "price": 75
+      }
+    ]
+  }
+]
